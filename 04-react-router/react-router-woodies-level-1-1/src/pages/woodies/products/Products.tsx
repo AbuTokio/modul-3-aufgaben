@@ -1,5 +1,5 @@
-import Page from "../../components/Page"
-import ProductCard from "../../components/ProductCard"
+import Page from "../../../components/woodies/Page"
+import ProductCard from "../../../components/woodies/ProductCard"
 
 export default function Products() {
   return (

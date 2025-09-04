@@ -1,4 +1,4 @@
-import ProductDetails from "../../components/ProductDetails"
+import ProductDetails from "../../../components/woodies/ProductDetails"
 
 export default function Jenson() {
   return (

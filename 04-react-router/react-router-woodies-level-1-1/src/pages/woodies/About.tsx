@@ -1,4 +1,4 @@
-import Page from "../components/Page"
+import Page from "../../components/woodies/Page"
 
 export default function About() {
   return (

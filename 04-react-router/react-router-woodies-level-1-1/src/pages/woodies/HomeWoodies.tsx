@@ -1,6 +1,6 @@
-import LinkButton from "../components/LinkButton"
+import LinkButton from "../../components/woodies/LinkButton"
 
-export default function Home() {
+export default function HomeWoodies() {
   return (
     <>
       <div className="pl-25.5 flex justify-between items-center h-[calc(100vh-73px)]">
