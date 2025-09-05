@@ -1,6 +1,6 @@
 interface BoxProps {
   einheit: string
-  value: number
+  value: number | string
   onChange: (value: number) => void
 }
 
